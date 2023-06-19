@@ -11,4 +11,4 @@ Prosta na podstawie papier kamien nożyce tylko na podstawie żywiołów
 
 ## Demo
 
-https://grzbejta.github.io/war-elemental/
+https://gb-redRabit.github.io/war-elemental/
